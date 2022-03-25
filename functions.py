@@ -21,7 +21,7 @@ def parse_to_dtf(link):
     print('parse_to_dtf')
     headers = {
         'accept': 'application/json',
-        'X-Device-Token' : '36f138d0fb097faaa995517ddf82d217806e0f6cc3283dcbbc11cf82a4bc305e'
+        'X-Device-Token' : '#'
     }
     params = (
         ('id', link),
